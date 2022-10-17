@@ -4,8 +4,8 @@
 ---
 
 # Asset Dependencies
-[Icon - Question](../assets/icon%20-%20question.png)  
-[Illustration - Shopping Rewards](../assets/illustration%20-%20rewards.png/)  
+[Icon - Question](../assets/question-aqua.png)  
+[Illustration - Shopping Rewards](../assets/rewards.png/)  
 
 # Element Properties
 ### SUBHEADINGS
