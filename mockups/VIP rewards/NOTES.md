@@ -1,4 +1,5 @@
-*Illustration is optional; Not sure how it aligns with rest of the branding/theme*
+- *Illustration is optional; Not sure how it aligns with rest of the branding/theme*  
+- *Table background might need to be darker to show up on some screens (looks white on one of mine)*
 
 ---
 
