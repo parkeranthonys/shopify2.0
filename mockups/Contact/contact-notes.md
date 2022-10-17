@@ -26,5 +26,7 @@ Field Border: #6DB8C3
 Button: #49A7B5
 
 # Connections
-- Sign up subheading and number link to the 'Find a Store' page
-- Button, question mark icon, and subheading all link to 'Contact/Customer Service' page
+- Phone icon has tel link to start call
+- Email icon has mail link to start email
+- Visit icon opens 'Find a Store' page
+- FAQ icon opens 'FAQ' page
